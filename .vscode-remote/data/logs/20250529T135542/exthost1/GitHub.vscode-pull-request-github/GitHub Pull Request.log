@@ -47,3 +47,33 @@
 2025-05-29 13:59:10.527 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
 2025-05-29 13:59:10.547 [info] [Review+3] No matching pull request metadata found locally for current branch main
 2025-05-29 13:59:10.570 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 14:09:41.162 [info] [Review+3] Validate state in progress
+2025-05-29 14:09:41.163 [info] [Review+3] Validating state...
+2025-05-29 14:09:41.539 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-05-29 14:09:41.539 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
+2025-05-29 14:09:41.557 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 14:09:41.580 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 14:20:24.602 [info] [Review+3] Validate state in progress
+2025-05-29 14:20:24.602 [info] [Review+3] Validating state...
+2025-05-29 14:20:24.602 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-05-29 14:20:24.602 [info] [FolderRepositoryManager+3] No GitHub remotes found for folder /home/vscode
+2025-05-29 14:20:24.619 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 14:20:24.628 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 14:23:02.984 [info] [Review+3] Validate state in progress
+2025-05-29 14:23:02.984 [info] [Review+3] Validating state...
+2025-05-29 14:23:03.127 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-05-29 14:23:03.128 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
+2025-05-29 14:23:03.146 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 14:23:03.156 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 14:31:40.982 [info] [Review+3] Validate state in progress
+2025-05-29 14:31:40.982 [info] [Review+3] Validating state...
+2025-05-29 14:31:40.983 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-05-29 14:31:40.983 [info] [FolderRepositoryManager+3] No GitHub remotes found for folder /home/vscode
+2025-05-29 14:31:41.001 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 14:31:41.014 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 14:33:42.454 [info] [Review+3] Validate state in progress
+2025-05-29 14:33:42.454 [info] [Review+3] Validating state...
+2025-05-29 14:33:42.563 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-05-29 14:33:42.563 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
+2025-05-29 14:33:42.583 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 14:33:42.593 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
