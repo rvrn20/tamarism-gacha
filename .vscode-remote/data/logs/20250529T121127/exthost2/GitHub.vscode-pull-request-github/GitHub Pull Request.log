@@ -1,0 +1,37 @@
+2025-05-29 12:31:03.290 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2025-05-29 12:31:03.290 [info] [Activation] Extension version: 0.110.0
+2025-05-29 12:31:31.475 [info] [Authentication] Creating hub for .com
+2025-05-29 12:31:38.630 [info] [Activation] Looking for git repository
+2025-05-29 12:31:38.631 [info] [Activation] Found 0 repositories during activation
+2025-05-29 12:31:38.631 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-05-29 12:31:38.636 [info] [GitAPI] Registering git provider
+2025-05-29 12:31:38.636 [info] [Review+0] Validate state in progress
+2025-05-29 12:31:38.636 [info] [Review+0] Validating state...
+2025-05-29 12:31:38.636 [info] [Review+1] Validate state in progress
+2025-05-29 12:31:38.636 [info] [Review+1] Validating state...
+2025-05-29 12:31:38.636 [info] [Review+2] Validate state in progress
+2025-05-29 12:31:38.636 [info] [Review+2] Validating state...
+2025-05-29 12:31:38.636 [info] [Review+3] Validate state in progress
+2025-05-29 12:31:38.636 [info] [Review+3] Validating state...
+2025-05-29 12:31:42.379 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /home/vscode/environment
+2025-05-29 12:31:42.380 [info] [FolderRepositoryManager+1] Found GitHub remote for folder /home/vscode/.oh-my-zsh
+2025-05-29 12:31:42.380 [info] [FolderRepositoryManager+2] Found GitHub remote for folder /home/vscode/.nodenv
+2025-05-29 12:31:42.380 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-05-29 12:31:44.760 [info] [FolderRepositoryManager+3] Trying to use globalState for assignableUsers.
+2025-05-29 12:31:44.844 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 12:31:44.869 [info] [FolderRepositoryManager+2] Trying to use globalState for assignableUsers.
+2025-05-29 12:31:44.884 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 12:31:44.905 [info] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-05-29 12:31:44.922 [info] [Review+2] No matching pull request metadata found locally for current branch main
+2025-05-29 12:31:44.939 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-05-29 12:31:44.947 [info] [FolderRepositoryManager+1] Trying to use globalState for assignableUsers.
+2025-05-29 12:31:44.968 [info] [Review+1] No matching pull request metadata found locally for current branch master
+2025-05-29 12:31:46.983 [info] [Activation] Repo state for file:///home/vscode changed.
+2025-05-29 12:31:46.983 [info] [Activation] Repo file:///home/vscode has already been setup.
+2025-05-29 12:31:48.266 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 12:31:48.333 [info] [Review+2] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 12:31:49.155 [info] [Review+1] No matching pull request metadata found on GitHub for current branch master
+2025-05-29 12:31:50.884 [info] [FolderRepositoryManager+3] Using globalState assignableUsers for 1.
+2025-05-29 12:31:50.887 [info] [FolderRepositoryManager+2] Using globalState assignableUsers for 1.
+2025-05-29 12:31:50.889 [info] [FolderRepositoryManager+1] Using globalState assignableUsers for 1.
+2025-05-29 12:31:50.891 [info] [FolderRepositoryManager+0] Using globalState assignableUsers for 2.

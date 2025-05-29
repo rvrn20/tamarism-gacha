@@ -43,3 +43,16 @@
 2025-05-29 05:27:02.126 [info] [FolderRepositoryManager+3] No GitHub remotes found for folder /home/vscode
 2025-05-29 05:27:02.147 [info] [Review+3] No matching pull request metadata found locally for current branch main
 2025-05-29 05:27:02.157 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 05:30:02.028 [info] [Review+3] Validate state in progress
+2025-05-29 05:30:02.028 [info] [Review+3] Validating state...
+2025-05-29 05:30:02.029 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-05-29 05:30:02.029 [info] [FolderRepositoryManager+3] No GitHub remotes found for folder /home/vscode
+2025-05-29 05:30:02.056 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 05:30:02.074 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 05:31:50.988 [info] [Review+3] Validate state in progress
+2025-05-29 05:31:50.988 [info] [Review+3] Validating state...
+2025-05-29 05:31:51.087 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-05-29 05:31:51.596 [info] [FolderRepositoryManager+3] Trying to use globalState for assignableUsers.
+2025-05-29 05:31:51.671 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 05:31:51.697 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 05:31:51.851 [info] [FolderRepositoryManager+3] No globalState for assignableUsers.

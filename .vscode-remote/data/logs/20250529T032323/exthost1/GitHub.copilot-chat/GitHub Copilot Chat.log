@@ -45,3 +45,7 @@
 2025-05-29 05:27:16.601 [info] Fetched model metadata in 6801ms 26fff912-2d11-48aa-9115-1abdba265fe4
 2025-05-29 05:27:27.914 [info] message 0 returned. finish reason: [stop]
 2025-05-29 05:27:27.914 [info] request done: requestId: [a7d10e01-3d7c-47ee-9ae4-45346c9e173d] model deployment ID: []
+2025-05-29 05:51:02.482 [info] Logged in as rvrn20
+2025-05-29 05:51:04.037 [info] Got Copilot token for rvrn20
+2025-05-29 05:51:05.341 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-29 05:51:05.500 [info] BYOK: Copilot Chat known models list fetched successfully.

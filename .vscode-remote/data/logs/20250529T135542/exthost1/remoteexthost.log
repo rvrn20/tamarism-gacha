@@ -1,0 +1,63 @@
+2025-05-29 13:56:01.105 [info] Extension host with pid 902 started
+2025-05-29 13:56:01.105 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock'
+2025-05-29 13:56:01.105 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-05-29 13:56:01.112 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock': The lock looks stale, waiting for 2s.
+2025-05-29 13:56:03.111 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock': The lock looks stale even after waiting for 2s.
+2025-05-29 13:56:03.112 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock': Deleting a stale lock.
+2025-05-29 13:56:03.115 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock': Lock acquired.
+2025-05-29 13:56:03.584 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-29 13:56:03.586 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2025-05-29 13:56:03.587 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-05-29 13:56:03.587 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2025-05-29 13:56:03.588 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2025-05-29 13:56:03.588 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onWebviewPanel:browserPreview'
+2025-05-29 13:56:03.589 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-05-29 13:56:03.589 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-29 13:56:03.589 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-05-29 13:56:03.590 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-29 13:56:03.591 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-29 13:56:03.591 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-29 13:56:03.592 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-05-29 13:56:04.312 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2025-05-29 13:56:04.312 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2025-05-29 13:56:04.313 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2025-05-29 13:56:04.315 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2025-05-29 13:56:04.315 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2025-05-29 13:56:09.338 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-05-29 13:56:09.339 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-05-29 13:56:09.735 [info] ExtensionService#_doActivateExtension Prisma.prisma, startup: true, activationEvent: 'workspaceContains:**/*.prisma'
+2025-05-29 13:56:12.674 [info] Eager extensions activated
+2025-05-29 13:56:12.675 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-29 13:56:12.675 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-29 13:56:12.690 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-05-29 13:56:12.691 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-29 13:56:12.691 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-29 13:56:12.691 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-29 13:56:12.696 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-05-29 13:56:17.638 [warning] [Decorations] CAPPING events from decorations provider vscode.git 275
+2025-05-29 13:56:19.719 [warning] [Decorations] CAPPING events from decorations provider vscode.git 275
+2025-05-29 13:56:22.072 [warning] [Decorations] CAPPING events from decorations provider vscode.git 278
+2025-05-29 13:56:23.145 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:56:27.677 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:56:31.057 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2025-05-29 13:56:37.886 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:56:48.767 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:56:57.281 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:02.540 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:07.790 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:13.037 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:18.202 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:23.471 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:28.709 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:33.982 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:39.196 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:44.351 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:49.496 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:57:54.797 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:58:00.082 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:58:05.331 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:58:10.611 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:58:15.902 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:58:21.144 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:58:26.340 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+2025-05-29 13:58:31.564 [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
