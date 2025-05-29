@@ -1,0 +1,3 @@
+2025-05-22 15:05:38.910 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2025-05-22 15:09:54.111 [info] Expanding terminal instance, old id 18fdf9a2-5 -> new id undefined
+2025-05-22 15:09:54.111 [info] Expanding terminal instance, old id 18fdf9a2-6 -> new id undefined

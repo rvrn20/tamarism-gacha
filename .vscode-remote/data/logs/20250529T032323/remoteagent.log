@@ -1,0 +1,60 @@
+2025-05-29 03:23:23.568 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2025-05-29 03:23:23.568 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-848b80aeb52026648a8ff9f7c45a9b0a80641e2e","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"do-not-include-pack-dependencies":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/848b80aeb52026648a8ff9f7c45a9b0a80641e2e/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20250529T032323"}
+2025-05-29 03:23:23.568 [info] 
+
+
+
+
+2025-05-29 03:23:23.568 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-29 03:23:23.568 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2025-05-29 03:23:23.580 [trace] ExtensionManagementService#cleanUp
+2025-05-29 03:23:23.581 [trace] ExtensionManagementService#removeTempDeleteFolders
+2025-05-29 03:23:23.582 [info] Extension host agent started.
+2025-05-29 03:23:23.585 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine/settings.json'
+2025-05-29 03:23:23.599 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-29 03:23:23.626 [debug] No extensions are marked as removed.
+2025-05-29 03:23:23.634 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-29 03:23:23.717 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2025.5.2025052801
+2025-05-29 03:23:23.717 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-python.python-2025.7.2025052801
+2025-05-29 03:23:23.717 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/esbenp.prettier-vscode-11.0.0
+2025-05-29 03:23:23.717 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-2.0.0
+2025-05-29 03:23:23.719 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2025-05-29 03:23:23.857 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2025-05-29 03:23:24.445 [trace] [127.0.0.1][c564fd00][ExtensionHostConnection] - startParams language: ja
+2025-05-29 03:23:24.445 [trace] [127.0.0.1][c564fd00][ExtensionHostConnection] - startParams env: {}
+2025-05-29 03:23:24.449 [info] [127.0.0.1][c564fd00][ExtensionHostConnection] New connection established.
+2025-05-29 03:23:24.455 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2025-05-29 03:23:24.462 [info] [127.0.0.1][c564fd00][ExtensionHostConnection] <802> Launched Extension Host Process.
+2025-05-29 03:23:24.504 [info] [127.0.0.1][c564fd00][ExtensionHostConnection] <802><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/254d58bf426f52203683ae7f435ede65.ja/848b80aeb52026648a8ff9f7c45a9b0a80641e2e/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/254d58bf426f52203683ae7f435ede65.ja/848b80aeb52026648a8ff9f7c45a9b0a80641e2e/nls.messages.json'
+
+2025-05-29 03:23:24.526 [info] [127.0.0.1][23b2decd][ManagementConnection] New connection established.
+2025-05-29 03:23:24.888 [trace] ExtensionManagementService.updateControlCache
+2025-05-29 03:23:24.888 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2025-05-29 03:23:24.889 [trace] Started scanning system extensions
+2025-05-29 03:23:24.890 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2025-05-29 03:23:24.892 [trace] Scanning extensions using UI language: ja
+2025-05-29 03:23:24.895 [info] Log level changed to info
+2025-05-29 03:23:24.990 [info] ComputeTargetPlatform: linux-x64
+2025-05-29 03:23:42.341 [info] ComputeTargetPlatform: linux-x64
+2025-05-29 03:23:50.796 [info] Getting Manifest... github.copilot
+2025-05-29 03:23:50.798 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-05-29 03:23:51.277 [info] Installing extension: ms-azuretools.vscode-docker {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}}
+2025-05-29 03:23:51.284 [info] Installing extension: github.copilot {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}}
+2025-05-29 03:23:51.521 [info] Getting Manifest... ms-azuretools.vscode-containers
+2025-05-29 03:23:51.797 [info] Installing extension: ms-azuretools.vscode-containers {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-05-29 03:23:52.240 [info] Getting Manifest... github.copilot-chat
+2025-05-29 03:24:02.699 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 10484ms.
+2025-05-29 03:24:03.168 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Internal Code: 0. Executed: true. Duration: 10864ms.
+2025-05-29 03:24:03.292 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-2.0.0: ms-azuretools.vscode-docker
+2025-05-29 03:24:03.365 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 9088ms.
+2025-05-29 03:24:03.374 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-2.0.0
+2025-05-29 03:24:03.513 [info] Marked extension as removed ms-azuretools.vscode-docker-1.29.6
+2025-05-29 03:24:03.975 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-containers-2.0.2: ms-azuretools.vscode-containers
+2025-05-29 03:24:04.524 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-containers-2.0.2
+2025-05-29 03:24:04.793 [info] Extension installed successfully: ms-azuretools.vscode-docker file:///home/vscode/.vscode-remote/extensions/extensions.json
+2025-05-29 03:24:04.804 [info] Extension installed successfully: ms-azuretools.vscode-containers file:///home/vscode/.vscode-remote/extensions/extensions.json
+2025-05-29 03:24:06.023 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-1.325.0: github.copilot
+2025-05-29 03:24:06.058 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-1.325.0
+2025-05-29 03:24:06.187 [info] Marked extension as removed github.copilot-1.323.0
+2025-05-29 03:24:06.251 [info] Extension installed successfully: github.copilot file:///home/vscode/.vscode-remote/extensions/extensions.json
+2025-05-29 03:28:23.583 [info] New EH opened, aborting shutdown
