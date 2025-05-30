@@ -77,3 +77,15 @@
 2025-05-29 14:33:42.563 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
 2025-05-29 14:33:42.583 [info] [Review+3] No matching pull request metadata found locally for current branch main
 2025-05-29 14:33:42.593 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 14:34:40.565 [info] [Review+3] Validate state in progress
+2025-05-29 14:34:40.565 [info] [Review+3] Validating state...
+2025-05-29 14:34:40.798 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-05-29 14:34:40.798 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
+2025-05-29 14:34:40.819 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 14:34:40.843 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-05-29 14:36:06.478 [info] [Review+3] Validate state in progress
+2025-05-29 14:36:06.478 [info] [Review+3] Validating state...
+2025-05-29 14:36:06.596 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-05-29 14:36:06.596 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
+2025-05-29 14:36:06.609 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-05-29 14:36:07.132 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
