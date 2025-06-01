@@ -1,0 +1,19 @@
+2025-06-01 04:11:05.522 [info] Can't use the Electron fetcher in this environment.
+2025-06-01 04:11:05.522 [info] Using the Node fetch fetcher.
+2025-06-01 04:11:05.522 [info] Initializing Git extension service.
+2025-06-01 04:11:05.522 [info] Successfully activated the vscode.git extension.
+2025-06-01 04:11:05.522 [info] Enablement state of the vscode.git extension: true.
+2025-06-01 04:11:05.522 [info] Successfully registered Git commit message provider.
+2025-06-01 04:11:12.909 [info] Logged in as rvrn20
+2025-06-01 04:11:20.309 [info] Got Copilot token for rvrn20
+2025-06-01 04:11:22.386 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-01 04:11:22.409 [info] Registering default platform agent...
+2025-06-01 04:11:22.412 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-06-01 04:11:22.412 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-06-01 04:11:22.412 [info] Successfully registered GitHub PR title and description provider.
+2025-06-01 04:11:22.412 [info] Successfully registered GitHub PR reviewer comments provider.
+2025-06-01 04:11:22.415 [info] Fetched model metadata in 2092ms b4f0ce28-cf43-430c-bb45-d2337f851af9
+2025-06-01 04:11:22.983 [info] activationBlocker from 'languageModelAccess' took for 17550ms
+2025-06-01 04:11:23.066 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-01 04:11:23.734 [warning] Invalid remote agent response: bad request: unknown integration
+ (SyntaxError: Unexpected token 'b', "bad reques"... is not valid JSON)

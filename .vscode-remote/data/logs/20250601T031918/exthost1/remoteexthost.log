@@ -1,0 +1,36 @@
+2025-06-01 03:19:35.830 [info] Extension host with pid 889 started
+2025-06-01 03:19:35.830 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock'
+2025-06-01 03:19:35.830 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-06-01 03:19:35.836 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock': The pid 884 appears to be gone.
+2025-06-01 03:19:35.836 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock': Deleting a stale lock.
+2025-06-01 03:19:35.878 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/18fdf9a2/vscode.lock': Lock acquired.
+2025-06-01 03:19:37.556 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-06-01 03:19:37.559 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2025-06-01 03:19:37.560 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-06-01 03:19:37.561 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2025-06-01 03:19:37.561 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2025-06-01 03:19:37.561 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onWebviewPanel:browserPreview'
+2025-06-01 03:19:37.562 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-06-01 03:19:37.562 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-01 03:19:37.563 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-06-01 03:19:37.564 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-01 03:19:37.564 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-01 03:19:37.564 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-01 03:19:37.565 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-06-01 03:19:38.048 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2025-06-01 03:19:38.048 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2025-06-01 03:19:38.048 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2025-06-01 03:19:38.051 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2025-06-01 03:19:38.051 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2025-06-01 03:19:39.627 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-06-01 03:19:39.628 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-06-01 03:19:42.125 [info] ExtensionService#_doActivateExtension Prisma.prisma, startup: true, activationEvent: 'workspaceContains:**/*.prisma'
+2025-06-01 03:19:44.169 [info] Eager extensions activated
+2025-06-01 03:19:44.169 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 03:19:44.170 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 03:19:44.173 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 03:19:44.173 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 03:19:44.173 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 03:19:44.174 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 03:19:44.177 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-06-01 03:20:00.778 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github

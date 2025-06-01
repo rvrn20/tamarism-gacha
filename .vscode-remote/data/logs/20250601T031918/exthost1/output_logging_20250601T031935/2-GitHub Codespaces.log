@@ -2,11 +2,11 @@
 [Client I] isRunningInWeb: "true"
 [Client V] Initializing authentication
 [API I] Successfully signed in
-[Client:extension:bf88 I] initializing
-[Client:extension:bf88:resolver I] created with protocol "codespaces"
+[Client:extension:ee90 I] initializing
+[Client:extension:ee90:resolver I] created with protocol "codespaces"
 [RemoteExplorer I] Updating codespace performance info
 [DevContainerJsonSupport I] Initializing devcontainer.json support package
-[DevContainerJsonSupport V] [2025-05-30T13:32:33.000Z] Internal initialization of dev container support package...
+[DevContainerJsonSupport V] [2025-06-01T03:19:53.509Z] Internal initialization of dev container support package...
 
 [Client I] Connecting to current codespace: ubiquitous-fishstick-jj9x777qppq7hrg6
 [Command:Connect I] Decorator starting: ErrorNotification
@@ -14,15 +14,15 @@
 [Client I] Jupyter API registered? false
 [API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/ubiquitous-fishstick-jj9x777qppq7hrg6"
 [RemoteExplorer I] Updating codespace performance info
-[Client:extension:bf88:resolver:resolve:1 I] resolve retry #3
-[Client:extension:bf88:resolver:resolve:1 I] resolving "codespaces+ubiquitous-fishstick-jj9x777qppq7hrg6"
-[Client:extension:bf88:resolver:resolve:1 I] codespace: "ubiquitous-fishstick-jj9x777qppq7hrg6", fetching details
-[Client:extension:bf88:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "ubiquitous-fishstick-jj9x777qppq7hrg6"
-[Client:extension:bf88:resolver:resolve:1:fetch-codespace-info I] signed in, getting the details
-[Client:extension:bf88:resolver:resolve:1:fetch-codespace-info I] fetching codespace "ubiquitous-fishstick-jj9x777qppq7hrg6" (retries left: 2)
+[Client:extension:ee90:resolver:resolve:1 I] resolve retry #3
+[Client:extension:ee90:resolver:resolve:1 I] resolving "codespaces+ubiquitous-fishstick-jj9x777qppq7hrg6"
+[Client:extension:ee90:resolver:resolve:1 I] codespace: "ubiquitous-fishstick-jj9x777qppq7hrg6", fetching details
+[Client:extension:ee90:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "ubiquitous-fishstick-jj9x777qppq7hrg6"
+[Client:extension:ee90:resolver:resolve:1:fetch-codespace-info I] signed in, getting the details
+[Client:extension:ee90:resolver:resolve:1:fetch-codespace-info I] fetching codespace "ubiquitous-fishstick-jj9x777qppq7hrg6" (retries left: 2)
 [API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/ubiquitous-fishstick-jj9x777qppq7hrg6"
 [RemoteExplorer I] Updating codespace performance info
-[Client:extension:bf88:resolver I] successfully fetched codespace details> object #0: {
+[Client:extension:ee90:resolver I] successfully fetched codespace details> object #0: {
   "id": 28821251,
   "name": "<37:<redacted>>",
   "environment_id": "9b089ddc-d711-4dd8-889e-6260891b1546",
@@ -107,8 +107,8 @@
   },
   "prebuild": null,
   "created_at": "2025-05-23T00:01:06+09:00",
-  "updated_at": "2025-05-30T22:32:50+09:00",
-  "last_used_at": "2025-05-30T22:31:23+09:00",
+  "updated_at": "2025-06-01T12:20:05+09:00",
+  "last_used_at": "2025-06-01T12:19:01+09:00",
   "state": "Available",
   "url": "https://api.github.com/user/codespaces/ubiquitous-fishstick-jj9x777qppq7hrg6",
   "git_status": {
@@ -137,11 +137,11 @@
   "connection": {
     "sessionPath": "/home/vscode",
     "tunnelProperties": {
-      "tunnelId": "fancy-shoe-1np9tnd",
+      "tunnelId": "silent-pond-78jqwpx",
       "clusterId": "asse",
       "domain": "app.github.dev",
-      "connectAccessToken": "<388:<redacted>>",
-      "managePortsAccessToken": "<394:<redacted>>",
+      "connectAccessToken": "<389:<redacted>>",
+      "managePortsAccessToken": "<396:<redacted>>",
       "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
     }
   },
@@ -181,14 +181,14 @@
   "publish_url": null
 }
 [RemoteExplorer I] Updating codespace performance info
-[Client:extension:bf88:resolver:resolve:1:check-codespace-state I] codespace ubiquitous-fishstick-jj9x777qppq7hrg6 (id: 9b089ddc-d711-4dd8-889e-6260891b1546) is in the "Default" state
-[Client:extension:bf88:resolver:resolve:1:check-codespace-state I] noop
-[Client:extension:bf88:resolver I] Initializing RPC client
-[Client:extension:bf88:resolver I] Running in web, using unix socket for communication
-[Client:extension:bf88:resolver I] Initializing Node-based codespace host service client
-[Client:extension:bf88:resolver I] Initializing Node-based VS Code server host service client
-[Client:extension:bf88:resolver I] Initializing Node-based Jupyter server host service client
-[Client:extension:bf88:resolver:resolve:1:check-codespace-state I] vscode connection options: > object #0: {
+[Client:extension:ee90:resolver:resolve:1:check-codespace-state I] codespace ubiquitous-fishstick-jj9x777qppq7hrg6 (id: 9b089ddc-d711-4dd8-889e-6260891b1546) is in the "Default" state
+[Client:extension:ee90:resolver:resolve:1:check-codespace-state I] noop
+[Client:extension:ee90:resolver I] Initializing RPC client
+[Client:extension:ee90:resolver I] Running in web, using unix socket for communication
+[Client:extension:ee90:resolver I] Initializing Node-based codespace host service client
+[Client:extension:ee90:resolver I] Initializing Node-based VS Code server host service client
+[Client:extension:ee90:resolver I] Initializing Node-based Jupyter server host service client
+[Client:extension:ee90:resolver:resolve:1:check-codespace-state I] vscode connection options: > object #0: {
   "environmentId": "9b089ddc-d711-4dd8-889e-6260891b1546",
   "vsCodeCommit": "848b80aeb52026648a8ff9f7c45a9b0a80641e2e",
   "vsCodeQuality": "stable",
@@ -199,16 +199,16 @@
   "telemetry": true
 }
 [RemoteExplorer I] Updating codespace details
-[Client:extension:bf88:resolver I] Executed start-remote-server using gRPC
-[Client:extension:bf88:resolver:resolve:1 I] vscode server remote port: "40525", local port: "undefined"}
-[Client V] connect duration: 20245 ms
-[Client:extension:bf88:resolver:resolve:1 I] Progress: Done
-[Client:extension:bf88:resolver I] Subscribed to event stream
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] launching background configuration tasks
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] Running in web, starting post attach command listener without disposable
-[Client:extension:bf88:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: addEnvironmentConfiguredEventCallback()
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] no max idle timeout notice
-[Client:extension:bf88:resolver:resolve:1:background-tasks V] checking correctness of the codespace session path> object #0: [
+[Client:extension:ee90:resolver I] Executed start-remote-server using gRPC
+[Client:extension:ee90:resolver:resolve:1 I] vscode server remote port: "34615", local port: "undefined"}
+[Client V] connect duration: 10476 ms
+[Client:extension:ee90:resolver:resolve:1 I] Progress: Done
+[Client:extension:ee90:resolver I] Subscribed to event stream
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] launching background configuration tasks
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] Running in web, starting post attach command listener without disposable
+[Client:extension:ee90:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: addEnvironmentConfiguredEventCallback()
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] no max idle timeout notice
+[Client:extension:ee90:resolver:resolve:1:background-tasks V] checking correctness of the codespace session path> object #0: [
   {
     "uri": {
       "$mid": 1,
@@ -221,20 +221,24 @@
     "index": 0
   }
 ]
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] Running in web, starting dev container change event listener without disposable
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] Running in web, starting secrets updated event listener without disposable
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] Running in web, starting codespace stopping event listener without disposable
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] starting activity monitor, isRunningInWeb: "true"
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] isRunningInWeb: true
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] starting activity monitor
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] Running in web, starting user notification event listener without disposable
-[Client:extension:bf88:resolver:resolve:1:background-tasks:openDefaultFiles I] Skipping openFiles because it's not the first activation
-[Command:Connect I] Command [Connect to Codespace]: Connect to Codespace Success (23103ms)
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] Running in web, starting dev container change event listener without disposable
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] Running in web, starting secrets updated event listener without disposable
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] Running in web, starting codespace stopping event listener without disposable
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] starting activity monitor, isRunningInWeb: "true"
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] isRunningInWeb: true
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] starting activity monitor
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] Running in web, starting user notification event listener without disposable
+[Client:extension:ee90:resolver:resolve:1:background-tasks:openDefaultFiles I] Skipping openFiles because it's not the first activation
+[Command:Connect I] Command [Connect to Codespace]: Connect to Codespace Success (15212ms)
 [Command:Connect I] Decorator finishing: Telemetry. Duration: 3ms (1 + 2)
-[Command:Connect I] Decorator finishing: ErrorNotification. Duration: 0ms (0 + 0)
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] Executed is-recovery-container using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks V] not in recovery container
+[Command:Connect I] Decorator finishing: ErrorNotification. Duration: 1ms (0 + 1)
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] Executed get-container-persisted-folder using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks V] container folder path: "/workspaces/.codespaces/.persistedshare"
+[Client:extension:ee90:resolver:resolve:1:background-tasks V] shared folder path: "/workspaces/.codespaces/shared/postCreateOutput.json"
+[Client:extension:ee90:resolver:resolve:1:background-tasks V] shared file path: "/workspaces/.codespaces/shared/postCreateOutput.json"
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] Executed is-recovery-container using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks V] not in recovery container
 [ResourceUsage I] Executed get-container-persisted-folder using gRPC
 [ResourceUsage V] container folder path: "/workspaces/.codespaces/.persistedshare"
 [ResourceUsage V] shared folder path: "/workspaces/.codespaces/shared/resource-usage.json"
@@ -243,77 +247,51 @@
 [ResourceUsage I] Checking if the codespace connection exists
 [ResourceUsage I] Running in web, starting monitor without disposable
 [Performance I] Executed get-container-persisted-folder using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] Executed get-container-persisted-folder using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks V] container folder path: "/workspaces/.codespaces/.persistedshare"
-[Client:extension:bf88:resolver:resolve:1:background-tasks V] shared folder path: "/workspaces/.codespaces/shared/postCreateOutput.json"
-[Client:extension:bf88:resolver:resolve:1:background-tasks V] shared file path: "/workspaces/.codespaces/shared/postCreateOutput.json"
-[Client:extension:bf88:resolver I] Received event: Subscribed
-[Client:extension:bf88:resolver I] Client f6b6d228-6ab0-4203-8b76-7a8fbaaa608d subscribed to event stream
-[Client:extension:bf88:resolver I] Received event: EnvironmentConfigured
-[Client:extension:bf88:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: handleEnvironmentConfiguredEvent()
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] GetRemotePid: Echoing $PPID to /tmp/codespace_pids/.pid-88972626-fc62-4615-a520-f02465cbeb8b...
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] GetRemotePid: Start polling for existance of PID file at file:///tmp/codespace_pids/.pid-88972626-fc62-4615-a520-f02465cbeb8b took 1 ms...
-[Client:extension:bf88:resolver:resolve:1:background-tasks I] Executed configure-environment using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:ee90:resolver I] Received event: Subscribed
+[Client:extension:ee90:resolver I] Client ecce0fde-f1ec-4263-ac92-da539064ceda subscribed to event stream
+[Client:extension:ee90:resolver I] Received event: EnvironmentConfigured
+[Client:extension:ee90:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: handleEnvironmentConfiguredEvent()
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] GetRemotePid: Echoing $PPID to /tmp/codespace_pids/.pid-700f882f-9b1b-4a36-8d9e-abc7a3a66188...
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] GetRemotePid: Start polling for existance of PID file at file:///tmp/codespace_pids/.pid-700f882f-9b1b-4a36-8d9e-abc7a3a66188 took 2 ms...
+[Client:extension:ee90:resolver:resolve:1:background-tasks I] Executed configure-environment using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Starting monitor
 [Performance I] Checking if the codespace connection exists
 [Performance I] Running in web, starting monitor without disposable
-[Client:extension:bf88:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: commandsKey: codespaces.1071.runningPostAttachCommands
-[Client:extension:bf88:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Running /bin/bash ~/environment/.devcontainer/postAttachCommand.sh in terminal Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh
-[Client:extension:bf88:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Added Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh to codespaces.1071.runningPostAttachCommands
+[Client:extension:ee90:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: commandsKey: codespaces.1087.runningPostAttachCommands
+[Client:extension:ee90:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Running /bin/bash ~/environment/.devcontainer/postAttachCommand.sh in terminal Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh
+[Client:extension:ee90:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Added Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh to codespaces.1087.runningPostAttachCommands
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
@@ -321,16 +299,18 @@
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:bf88:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:ee90:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
