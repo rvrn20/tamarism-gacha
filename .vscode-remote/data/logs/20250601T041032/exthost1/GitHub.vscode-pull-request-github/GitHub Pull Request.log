@@ -61,3 +61,21 @@
 2025-06-01 04:13:43.337 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
 2025-06-01 04:13:43.355 [info] [Review+3] No matching pull request metadata found locally for current branch main
 2025-06-01 04:13:43.366 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-06-01 04:14:47.630 [info] [Review+3] Validate state in progress
+2025-06-01 04:14:47.630 [info] [Review+3] Validating state...
+2025-06-01 04:14:47.985 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-06-01 04:14:47.986 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
+2025-06-01 04:14:48.006 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-06-01 04:14:48.034 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-06-01 04:38:55.978 [info] [Review+3] Validate state in progress
+2025-06-01 04:38:55.979 [info] [Review+3] Validating state...
+2025-06-01 04:38:56.109 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-06-01 04:38:56.110 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
+2025-06-01 04:38:56.126 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-06-01 04:38:56.693 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main
+2025-06-01 04:47:46.733 [info] [Review+3] Validate state in progress
+2025-06-01 04:47:46.733 [info] [Review+3] Validating state...
+2025-06-01 04:47:46.978 [info] [FolderRepositoryManager+3] Found GitHub remote for folder /home/vscode
+2025-06-01 04:47:46.978 [info] [FolderRepositoryManager+3] Using in-memory cached assignable users.
+2025-06-01 04:47:46.990 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-06-01 04:47:47.484 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main

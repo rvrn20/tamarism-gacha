@@ -25,3 +25,12 @@ git remote remove origin
 git remote add origin https://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@github.com/rvrn20/tamarism-gacha.git
 git remote remove origin
 git remote add origin https://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@github.com/rvrn20/tana
+git remote remove origin
+git remote add origin https://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@github.com/rvrn20/tamarism-gacha.git
+git add .
+git commit -m "初回コミット"
+git push -u origin main
+git rm --cached -r .nodenv
+rm .gitmodules
+git commit -m "Remove broken submodule reference"
+git push -u origin main

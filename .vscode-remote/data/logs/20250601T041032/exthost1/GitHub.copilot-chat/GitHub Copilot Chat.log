@@ -17,3 +17,8 @@
 2025-06-01 04:11:23.066 [info] BYOK: Copilot Chat known models list fetched successfully.
 2025-06-01 04:11:23.734 [warning] Invalid remote agent response: bad request: unknown integration
  (SyntaxError: Unexpected token 'b', "bad reques"... is not valid JSON)
+2025-06-01 04:43:28.910 [info] Logged in as rvrn20
+2025-06-01 04:43:30.447 [info] Got Copilot token for rvrn20
+2025-06-01 04:43:31.896 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-01 04:43:32.060 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-01 04:43:34.149 [info] Fetched model metadata in 1565ms 1a18ae4b-5849-4ebe-b11e-5a5e03ddb85d

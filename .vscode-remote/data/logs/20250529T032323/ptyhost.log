@@ -1,2 +1,0 @@
-2025-05-29 03:24:25.381 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
-2025-05-29 05:16:52.110 [error] Failed to set sticky bit on /tmp/vscode-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/vscode-code-zsh'
